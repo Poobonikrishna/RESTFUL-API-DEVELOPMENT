@@ -53,3 +53,16 @@ built using Node.js + Express. Supports CRUD operations and Borrow/Return flow.
 
 OUTPUT:
 
+API TESTING OUTPUT:-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9993a3b7-0f9a-42c8-a8ce-daa631d9d6c8" />
+
+
+
+CONNECTION DONE SUCESSFULLY:-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95357f8d-794b-4627-b0b8-da1a63cf3e66" />
+
+
+FINAL OUTPUR (POSTMAN)
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/175a8fad-b902-4608-80b3-001dafbad556" />
+
